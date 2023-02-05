@@ -6,3 +6,9 @@
 - Upload the Homework2_Q1.cs file. 
 - Upload the Homework2_Q2.cs file.
 - Upload the Homework2_Bonus.cs file.
+
+2/5/23
+- Upload the Homework3_Q1.cs file. 
+- Upload the Homework3_Q2.cs file. 
+- Upload the Homework3_Q3.cs file. 
+- Upload the Homework3_Bonus.cs file. 
