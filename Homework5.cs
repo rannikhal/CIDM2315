@@ -83,7 +83,7 @@ class Program
             int i=0;
             while (password1 != password2 && i<2)
             {
-                Console.WriteLine("Wrong password, please verify (Chances left: " + (3-i) + ")");
+                Console.WriteLine("Wrong password, please verify (Chances left: " + (2-i) + ")");
                 Console.WriteLine("Input Your Password:");
                 password1 = Console.ReadLine();
                 Console.WriteLine("Input Your Password Again:");
