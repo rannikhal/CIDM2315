@@ -21,3 +21,6 @@
 
 3/6/23
 - Upload the Homework6.cs file.
+
+3/22/23
+- Upload the Homework7.cs file.
